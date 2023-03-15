@@ -4,6 +4,11 @@
             "name": "safwan",
             "age": 28,
             "subject": "coding"
+        },
+        {
+            "name": "salman",
+            "age": 29,
+            "subject": "Dsa"
         }
     ]
 }
