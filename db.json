@@ -1,6 +1,9 @@
 {
-    "name": "safwan",
-    "age": 28,
-    "subject": "coding"
-
+    "users": [
+        {
+            "name": "safwan",
+            "age": 28,
+            "subject": "coding"
+        }
+    ]
 }
