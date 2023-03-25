@@ -17,7 +17,7 @@
             "bed_type": "Double",
                 "no_of_persons":"2",
                 "capacity":"3",
-                "cost":"4000",
+                "cost":"5000",
                 "booked":false
           },
           {
@@ -149,10 +149,10 @@
 		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"title" : "Doctor Strange in the Multiverse of Madness",
 		"director" : "Sam Raimi",
-		"year" : 2022,
+		"year" : 2020,
 		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"IMDB_Rating" : 3.8,
+		"ticket" : 100
 	},{
         "id" : 1,
 		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
@@ -161,7 +161,7 @@
 		"year" : 2023,
 		"genre" : "Action",
 		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"ticket" : 800
     },
     {
 		"id" : 3,
@@ -185,9 +185,9 @@
 		"id" : 5,
 		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"title" : "Doctor Strange in the Multiverse of Madness",
-		"director" : "Sam Raimi",
+		"director" : "Sam shaikh",
 		"year" : 2022,
-		"genre" : "Action",
+		"genre" : "",
 		"IMDB_Rating" : 6.8,
 		"ticket" : 200
 	},{
@@ -195,9 +195,9 @@
 		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"title" : "Doctor Strange in the Multiverse of Madness",
 		"director" : "Safwan",
-		"year" : 2023,
+		"year" : 2022,
 		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
+		"IMDB_Rating" : 4.8,
 		"ticket" : 200
     },
     {
@@ -207,17 +207,17 @@
 		"director" : "Sam Raimi",
 		"year" : 2022,
 		"genre" : "Action",
-		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"IMDB_Rating" : 5.8,
+		"ticket" : 250
 	},{
         "id" : 8,
 		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
 		"title" : "Doctor Strange in the Multiverse of Madness",
 		"director" : "Safwan",
-		"year" : 2023,
+		"year" : 2021,
 		"genre" : "Action",
 		"IMDB_Rating" : 6.8,
-		"ticket" : 200
+		"ticket" : 300
     }
 	
 ]
