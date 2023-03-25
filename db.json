@@ -142,5 +142,83 @@
               "booked":true
         }
       
-      ]
+      ],
+    "movies": [
+	{
+		"id" : 1,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},{
+        "id" : 1,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Safwan",
+		"year" : 2023,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+    },
+    {
+		"id" : 3,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},{
+        "id" : 4,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Safwan",
+		"year" : 2023,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+    },{
+		"id" : 5,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},{
+        "id" : 6,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Safwan",
+		"year" : 2023,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+    },
+    {
+		"id" : 7,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Sam Raimi",
+		"year" : 2022,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+	},{
+        "id" : 8,
+		"poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+		"title" : "Doctor Strange in the Multiverse of Madness",
+		"director" : "Safwan",
+		"year" : 2023,
+		"genre" : "Action",
+		"IMDB_Rating" : 6.8,
+		"ticket" : 200
+    }
+	
+]
 }
