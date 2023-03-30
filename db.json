@@ -230,5 +230,34 @@
   "ticket" : 200
   }
 	
-]
+], "tracker": [
+      {
+    "id":1,
+    "type":"Expense",
+    "category":"Bills",
+    "amount":"10000",
+    "date":"30-3-2023"
+},
+{
+    "id":2,
+    "type":"Income",
+    "category":"Gifts",
+    "amount":"7000",
+    "date":"30-3-2023"
+},
+{
+    "id":3,
+    "type":"Expense",
+    "category":"Bills",
+    "amount":"20000",
+    "date":"23-3-2023"
+},
+{
+    "id":4,
+    "type":"Income",
+    "category":"Gifts",
+    "amount":"8000",
+    "date":"31-3-2023"
+}
+      ]
 }
