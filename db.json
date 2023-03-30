@@ -2,9 +2,10 @@
     "users": [
       {
         "id":1,
-        "username":"safwan",
+        "full name":"safwan",
         "email":"saf@gmail.com",
-        "password":"123"
+        "password":"123",
+        "sign up button":""
       }
       ],
 
