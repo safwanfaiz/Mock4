@@ -218,7 +218,16 @@
 		"genre" : "Action",
 		"IMDB_Rating" : 6.8,
 		"ticket" : 300
-    }
+    },{
+      "id" : 9,
+  "poster" : "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
+  "title" : "Doctor Strange in the Multiverse of Madness",
+  "director" : "Safwan",
+  "year" : 2021,
+  "genre" : "Action",
+  "IMDB_Rating" : 2.8,
+  "ticket" : 200
+  }
 	
 ]
 }
