@@ -259,5 +259,49 @@
     "amount":"8000",
     "date":"31-3-2023"
 }
+      ],
+       "game": [
+      {
+        "id":1,
+        "name":"safwan",
+        "level":4,
+        "scores":51
+        
+      },
+       {
+        "id":2,
+        "name":"salman",
+        "level":7,
+        "scores":89
+        
+      },
+       {
+        "id":3,
+        "name":"same",
+        "level":10,
+        "scores":91
+        
+      },
+       {
+        "id":4,
+        "name":"sameer",
+        "level":4,
+        "scores":67
+        
+      },
+       {
+        "id":5,
+        "name":"nake",
+        "level":7,
+        "scores":81
+        
+      },
+       {
+        "id":6,
+        "name":"james",
+        "level":8,
+        "scores":71
+        
+      }
       ]
 }
